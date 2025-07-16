@@ -1,5 +1,5 @@
 # Notice
-Nanopore platforms【Continuous update!!  Latest update 20250420】
+Nanopore platforms【Continuous update!!  Latest update 20250716  更新时间2025年7月16日
 
 Table  Comparison of nanopore sequencing platforms
 | Company | Sequencer | Released Time | Weight | Throughput | Accuracy | Read Length | Runs | Suitable Scenarios | Website |
@@ -20,7 +20,7 @@ Table  Comparison of nanopore sequencing platforms
 | Polyseq | PolyseqOne | Jan, 2024     | 1.5kg  | 15-20 Gb   | 97%       | >200kb | 1 | Portable sequencing, field research, low-cost and small-scale sequencing | https://www.polyseq.com/products |
 | BGI research | CycloneSEQ-WT02 | Sep, 2024     | -      | 50 Gb*2      | 97%       | Mb | 2 | Large-scale sequencing, high throughput needs by company | https://doi.org/10.1101/2024.08.19.608720 |
 | Polyseq  | PolyseqHive| Dec, 2024     | -      | 152 Gb      | 97%       | >50kb | 6 |  Medium-scale sequencing, lab-based research | https://www.polyseq.com/sy |
-| BGI research | G400-ER | March, 2025 | 3.50kg | 182.61Gb | 97%  |Mb | 1  | Large-scale sequencing, high throughput needs by company  |   https://www.mgitech.cn/Home/Products/instruments_info/id/88.html |
+| BGI research | G400-ER | March, 2025 | 3.50kg | 182.61Gb | 99%  |Mb | 1  | Large-scale sequencing, high throughput needs by company  |   https://www.mgitech.cn/Home/Products/instruments_info/id/88.html |
 | Genues-Tech | G-seq1M | April, 2025 | - | 240 Gb | 99.9%(correct) | >60kb | 1 | Large-scale sequencing, high throughput needs by company | http://geneus-tech.com/proddetail.aspx?id=5
  
 Please Cite: Zhang T, Li H, Jiang M, et al. Nanopore sequencing: Flourishing in its teenage years[J]. Journal of Genetics and Genomics, 2024.
