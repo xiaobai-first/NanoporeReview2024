@@ -1,5 +1,5 @@
 # Notice
-Nanopore platforms【Continuous update!!  Latest update 20250716  更新时间2025年7月16日
+Nanopore platforms【Continuous update!!  Latest update 20250813  更新时间2025年8月13日
 
 Table  Comparison of nanopore sequencing platforms
 | Company | Sequencer | Released Time | Weight | Throughput | Accuracy | Read Length | Runs | Suitable Scenarios | Website |
