@@ -25,10 +25,6 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <td>Quality control software for long-read</td>
     <td>https://github.com/yfukasawa/LongQC</td>
   <tr>
-    <td>Porechop</td>
-    <td>Adapter and chimera trimmer for Oxford Nanopore reads</td>
-    <td>https://github.com/rrwick/Porechop</td>
-  <tr>
     <td>Bam2fastx</td>
     <td>Conversion of BAM files to FASTQ files</td>
     <td>https://github.com/PacificBiosciences/bam2fastx</td>
@@ -106,7 +102,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <td>https://github.com/DecodeGenetics/Ratatosk</td>
    </tr>
    <tr>
-    <td colspan="3">Call varients</td>
+    <td colspan="3">Call variants</td>
    <tr>
     <tr>
       <td>Deepvariant</td>
@@ -116,7 +112,7 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
     <tr>
       <td>Sniffles2</td>
       <td>Structural variation caller using long-read data(SNP,INDEL,SV)</td>
-      <td>http://hmmer.org/</td>
+      <td>https://github.com/fritzsedlazeck/Sniffles/</td>
     </tr>
 	<td>Cutesv</td>
       <td>Long-read based human genomic structural variation detection</td>
@@ -195,10 +191,10 @@ Table S1 the popular bioinformatics tools utilized for nanopore sequencing.
 	<tr>
       <td>Emu</td>
       <td>Species-level relative abundance estimator for nanopore 16S sequences</td>
-      <td>https://github.com/DiltheyLab/MetaMaps</td>
+      <td>https://github.com/treangenlab/emu</td>
 	<tr>
       <td>NanoCLUST</td>
       <td>A Nextflow pipeline that uses UMAP to cluster and classify full-length 16S rRNA nanopore reads</td>
-      <td>https://github.com/DiltheyLab/MetaMaps</td>
+      <td>https://github.com/genomicsITER/NanoCLUST</td>
   </tr>
 </table>
